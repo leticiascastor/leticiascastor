@@ -1,3 +1,5 @@
+ ## Bem-vindo(a) ao meu perfil! 😊
+ 
  <div>
    <a href="https://github.com/leticiascastor">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiascastor&show_icons=true&theme=radical"/>
@@ -12,7 +14,7 @@
  
  <br>
  
-  ### Pra mais informações, me segue nas redes abaixo!
+  ### Para mais informações, me segue nas redes abaixo! 😄
  
 <div> 
   <a href="https://instagram.com/leticiascastor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
