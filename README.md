@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Letícia Silva e atualmente curso Bacharelado em Ciência da Computação na UFABC. Sou apaixonada por tecnologia, dados e aprendizado contínuo, buscando constantemente desenvolver habilidades em análise de dados, automação, programação e ferramentas voltadas à tomada de decisão. 
+Me chamo Letícia Castor e atualmente curso Bacharelado em Ciência da Computação na UFABC. Sou apaixonada por tecnologia, dados e aprendizado contínuo, buscando constantemente desenvolver habilidades em análise de dados, automação, programação e ferramentas voltadas à tomada de decisão. 
 
  
 <div> 
