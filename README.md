@@ -12,7 +12,7 @@ Me chamo Letícia Castor e atualmente curso Bacharelado em Ciência da Computaç
    <a href="https://www.linkedin.com/in/leticiascastor/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-  <a href = "mailto:leticiascastor">
+  <a href = "mailto:leticiasilvacastor@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
 target="_blank">
     </a>
