@@ -13,10 +13,12 @@ Me chamo Letícia Castor e atualmente curso Bacharelado em Ciência da Computaç
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
   <a href = "mailto:leticiascastor">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+target="_blank">
     </a>
   <a href="https://web.dio.me/users/leticiasilvacastor" target="_blank">
-        <img src="https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge&logo=dio&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge&logo=dio&logoColor=white" 
+target="_blank">
     </a>
 </div>
 
